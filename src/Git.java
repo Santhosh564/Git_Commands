@@ -14,3 +14,6 @@ public class Git {
 =======
 //SomeOne Edited java file in GitHub
 >>>>>>> 5d45af0f2895422af16668c29e4bd9ab0b352bfb
+
+
+//Commented with a Santhosh Branch in class file
